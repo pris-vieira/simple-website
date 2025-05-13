@@ -1,5 +1,5 @@
 :root {
-    --pink: #ca47cc;
+    --yellow: #c9c732;
     --white: #ffffff;
     --black: #000000;
 }
@@ -28,7 +28,7 @@ li {
 
 
 .light-theme {
-    --bg: var(--pink);
+    --bg: var(--white);
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
@@ -36,7 +36,7 @@ li {
 
 .dark-theme {
     --bg: var(--black);
-    --fontColor:var(--pink);
+    --fontColor:var(--white);
     --btnBg: var(--white);
     --btnFontColor:var(--black);
 }
